@@ -57,3 +57,7 @@ Segue uma relação de codelabs e tutoriais ótimos para você aprender mais, e 
 ## Treinamentos
 
 Ao longo das próximas semanas teremos alguns treinamentos que serão ministrados pelo Wellington Veiga e pelo Lesley Andrez. O Wellington nos treinará sobre scrum e gestão de projetos e o Lesley sobre JavaScript, CSS, Pré-processadores e algo mais.
+
+## Sequência de aprendizado proposta 
+
+Na semana experimental, faremos um sistema web/mobile completo do começo ao fim, com "área administrativa" web, integraãintegração com algumas APIs, e por fim colocaremos tudo online.
