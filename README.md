@@ -10,17 +10,18 @@ Ao se inscrevem para o processo de seleço os candidatos puderam escolher entre 
 
 | Candidato | Projetos e Pontos                                                                                                                        | Pontuação |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Marcelo   | - Interface Material + Form = 70 pontos + Previsão Native + Repo + English = 115 pontos + + Firebase + Repo + English = 115 pontos +  Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 | 700       |
+| Marcelo   | - Interface Material + Form = 70 pontos + Previsão Native + Repo + English = 115 pontos  + Firebase + Repo + English = 115 pontos +  Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 | 700       |
+| Ygor | Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Web App Home Screen + Repo + English = 70 + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 + Service Worker + Repo + English = 60 + Caching with progressive + Repo + English = 100| 630 | 
+| João      | - Firebase = 95 pontos  + Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Raw React + Repo + English = 80 + Adding Push Notifications to a Web App + Repo + English = 100  + Caching with progressive + Repo + English = 100                                                                                                            | 595        |
 | Gilson    | - React Repeat + Repo + English = 110 pontos + Localização + Mapa + Repo + English = 110 pontos + Firebase + Repo + English = 115 pontos + Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100| 555       |
-| Ygor | Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Web App Home Screen + Repo + English = 70 | 290 | 
+| Leonardo  | - Localização + Mapa + Repo = 100 pontos   +     Firebase Web Codelab + Repo  = 110  + Raw React + Repo + English = 80 +  + Adding Push Notifications to a Web App + Repo  = 90 + Firebase Cloud Function + Repo  = 90                                                                                     | 480       |
 | Mariana   | - Interface Material + Form = 70 pontos + Localização + Mapa  = 90 pontos                                                                | 160       |
-| Natan     | - Firebase - 95 pontos - Pomodoro - 40 pontos                                                                                            | 135       |
 | Tiago    |  - Firebase + Itens + Deploy +Repo + Ingles = 135 pontos                                                                           |135       |
+| Natan     | - Firebase - 95 pontos - Pomodoro - 40 pontos                                                                                            | 135       |
 | Gabriel | - Firebase + Repo + English = 115 pontos | 115 |
-| Leonardo  | - Localização + Mapa + Repo = 100 pontos                                                                                                 | 100       |
+
 | Matheus   | - API Node + Repo + English  = 100 pontos                                                                                                | 100       |
 | Priscila  | - API Node + Repo + English = 100 pontos                                                                                                 | 100       |
-| João      | - Firebase = 95 pontos                                                                                                                   | 95        |
 
 ## App Machine Labs
 
