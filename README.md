@@ -18,7 +18,7 @@ Ao se inscrevem para o processo de seleço os candidatos puderam escolher entre 
 | Mariana   | - Interface Material + Form = 70 pontos + Localização + Mapa  = 90 pontos                                                                | 160       |
 | Tiago    |  - Firebase + Itens + Deploy +Repo + Ingles = 135 pontos                                                                           |135       |
 | Natan     | - Firebase - 95 pontos - Pomodoro - 40 pontos                                                                                            | 135       |
-| Gabriel | - Firebase + Repo + English = 115 pontos | 115 |
+| Gabriel | - Firebase + Itens + Deploy +Repo + Ingles = 135 pontos + Firebase Web Codelab + Repo + English = 120| 255 |
 | Matheus   | - API Node + Repo + English  = 100 pontos                                                                                                | 100       |
 | Priscila  | - API Node + Repo + English = 100 pontos                                                                                                 | 100       |
 
