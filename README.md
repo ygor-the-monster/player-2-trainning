@@ -1,4 +1,4 @@
-# Treinamento e seleção para player 2
+ # Treinamento e seleção para player 2
 
 Este documento apresenta os candidatos, suas pontuaçes, o App Machine Labs e explica como os participantes poderão estudar, aprender e publicar um app em poucos dias. 
 
@@ -10,8 +10,8 @@ Ao se inscrevem para o processo de seleço os candidatos puderam escolher entre 
 
 | Candidato | Projetos e Pontos                                                                                                                        | Pontuação |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Ygor | Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Web App Home Screen + Repo + English = 70 + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 + Service Worker + Repo + English = 60 + Caching with progressive + Repo + English = 100 + Creating a Simple Application Using React JS and Flux Architecture) + Repo + English = 120 + Raw React — no JSX, no Flux, no ES6, no Webpack + Repo + English = 80 | 830 | 
 | Marcelo   | - Interface Material + Form = 70 pontos + Previsão Native + Repo + English = 115 pontos  + Firebase + Repo + English = 115 pontos +  Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 | 700       |
-| Ygor | Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Web App Home Screen + Repo + English = 70 + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 + Service Worker + Repo + English = 60 + Caching with progressive + Repo + English = 100| 630 | 
 | João      | - Firebase = 95 pontos  + Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Raw React + Repo + English = 80 + Adding Push Notifications to a Web App + Repo + English = 100  + Caching with progressive + Repo + English = 100                                                                                                            | 595        |
 | Gilson    | - React Repeat + Repo + English = 110 pontos + Localização + Mapa + Repo + English = 110 pontos + Firebase + Repo + English = 115 pontos + Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100| 555       |
 | Leonardo  | - Localização + Mapa + Repo = 100 pontos   +     Firebase Web Codelab + Repo  = 110  + Raw React + Repo + English = 80 +  + Adding Push Notifications to a Web App + Repo  = 90 + Firebase Cloud Function + Repo  = 90                                                                                     | 480       |
