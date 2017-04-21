@@ -1,6 +1,6 @@
 # Treinamento e seleção para player 2
 
-Este documento apresenta os candidatos, suas pontuaçes, o App Machine Labs e explica como os participantes poderão estudar, aprender e publicar um app em poucos dias. 
+Este documento apresenta os candidatos, suas pontuaçes, o App Machine Labs e explica como os participantes poderão estudar, aprender e publicar um app em poucos dias.
 
 Queremos muitos mais que apenas ter estagiários trabalhando conosco, nossa intenção é movimentar a comunidade e incentivar os interessados em aprender, que aprendam cada vez mais, podendo até compartilhar o conhecimento adquirido.
 
@@ -11,20 +11,21 @@ Ao se inscrevem para o processo de seleço os candidatos puderam escolher entre 
 | Candidato | Projetos e Pontos                                                                                                                        | Pontuação |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | João      | - Firebase = 95 pontos  + Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Raw React + Repo + English = 80 + Adding Push Notifications to a Web App + Repo + English = 100  + Caching with progressive + Repo + English = 100 + Autocomplete + Repo + English = 80 + Service Worker + Repo + English = 60 + Web App Home Screen + Repo + English = 70 + A Dummy’s Guide to Redux and Thunk in React + Repo + English | 885        |
-| Marcelo   | - Interface Material + Form = 70 pontos + Previsão Native + Repo + English = 115 pontos  + Firebase + Repo + English = 115 pontos +  Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 | 700       |
+| Marcelo   | - Interface Material + Form = 70 pontos + Previsão Native + Repo + English = 115 pontos  + Firebase + Repo + English = 115 pontos +  Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 + Service Worker + Repo + English = 60 + Caching with progressive + Repo + English = 100 | 860       |
 | Ygor | Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100  + Web App Home Screen + Repo + English = 70 + Adding Push Notifications to a Web App + Repo + English = 100 + Autocomplete + Repo + English = 80 + Service Worker + Repo + English = 60 + Caching with progressive + Repo + English = 100| 630 | 
 | Gilson    | - React Repeat + Repo + English = 110 pontos + Localização + Mapa + Repo + English = 110 pontos + Firebase + Repo + English = 115 pontos + Firebase Web Codelab + Repo + English = 120 + Firebase Cloud Function + Repo + English = 100| 555       |
 | Leonardo  | - Localização + Mapa + Repo = 100 pontos   +     Firebase Web Codelab + Repo  = 110  + Raw React + Repo + English = 80 +  + Adding Push Notifications to a Web App + Repo  = 90 + Firebase Cloud Function + Repo  = 90                                                                                     | 480       |
+| Gabriel | - Firebase + Itens + Deploy +Repo + Ingles = 135 pontos + Firebase Web Codelab + Repo + English = 120| 255 |
 | Mariana   | - Interface Material + Form = 70 pontos + Localização + Mapa  = 90 pontos                                                                | 160       |
 | Tiago    |  - Firebase + Itens + Deploy +Repo + Ingles = 135 pontos                                                                           |135       |
 | Natan     | - Firebase - 95 pontos - Pomodoro - 40 pontos                                                                                            | 135       |
 | Gabriel | - Firebase + Repo + English = 115 pontos | 115 |
-| Matheus   | - API Node + Repo + English  = 100 pontos                                                                                                | 100       |
+| Matheus   | - API Node + Repo + English  = 100 pontos + React-Native Aplication + Repo + English = 120 pontos + Firebase Web Codelab + English + Repo = 120 + pontos + Firebase SDK for Cloud Functions + Repo + English     |  440      |                                                                                          | 100       |
 | Priscila  | - API Node + Repo + English = 100 pontos                                                                                                 | 100       |
 
 ## App Machine Labs
 
-Queremos que todos possam ter um repositrio com códigos além de apenas um cirrículo de uma página, e o mais importante, ter um aplicativo ou webapp publicado, disponível para instalação e uso por qualquer um. 
+Queremos que todos possam ter um repositrio com códigos além de apenas um cirrículo de uma página, e o mais importante, ter um aplicativo ou webapp publicado, disponível para instalação e uso por qualquer um.
 A ideia do Labs é propiciar isso, enquanto estudamos e aprendemos sobre novas tecnologias.
 
 ## Conteúdos relevantes
@@ -48,7 +49,7 @@ Segue uma relação de codelabs e tutoriais ótimos para você aprender mais, e 
 | [Caching with progressive libraries](https://codelabs.developers.google.com/codelabs/using-caching/index.html?index=..%2F..%2Findex#0) |  80 |
 | [Creating a Simple Application Using React JS and Flux Architecture)](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial) | 100 |
 | [Raw React — no JSX, no Flux, no ES6, no Webpack](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/) | 60 |
-| [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3) | 60 | 
+| [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3) | 60 |
 | [Let’s Build a Redux Powered React Application](https://stormpath.com/blog/build-a-redux-powered-react-application) | 60 |
 | [React Native Tutorial: Building Apps with JavaScript](https://www.raywenderlich.com/126063/react-native-tutorial) | 100 |
 | [Set Up a JavaScript Firebase Cloud Messaging Client App](https://firebase.google.com/docs/cloud-messaging/js/client) | 60 |
@@ -58,6 +59,6 @@ Segue uma relação de codelabs e tutoriais ótimos para você aprender mais, e 
 
 Ao longo das próximas semanas teremos alguns treinamentos que serão ministrados pelo Wellington Veiga e pelo Lesley Andrez. O Wellington nos treinará sobre scrum e gestão de projetos e o Lesley sobre JavaScript, CSS, Pré-processadores e algo mais.
 
-## Sequência de aprendizado proposta 
+## Sequência de aprendizado proposta
 
 Na semana experimental, faremos um sistema web/mobile completo do começo ao fim, com "área administrativa" web, integraãintegração com algumas APIs, e por fim colocaremos tudo online.
